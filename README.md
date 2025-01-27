@@ -1,7 +1,3 @@
-Based on your document titled "Decoding Financial Sentiments," here's a sample GitHub README:
-
----
-
 # Decoding Financial Sentiments: A Comparative Analysis of Machine Learning Approaches
 
 ## Abstract
